@@ -42,29 +42,6 @@ MarketWiseAI oferece diversos benefícios cruciais para quem busca uma vantagem 
 
 
 
-## Como os usuários podem começar a usar o projeto?
-
-Para começar a usar o MarketWiseAI, siga estes passos:
-
-1.  **Acesse o Código:** O projeto está disponível como um notebook do Google Colaboratory (`.ipynb`) neste repositório.
-
-2.  **Abra no Google Colab:** Clique no arquivo `.ipynb` e selecione a opção para abrir no Google Colaboratory.
-
-3.  **Configure as Variáveis do Usuário:**
-
-    * No início do notebook, localize a seção "**Configuração do Usuário**".
-
-    * Edite as listas `concorrentes`, `topicos_tendencia`, `publico_alvo` e `fontes_especialistas` com as informações relevantes para o mercado que você deseja analisar. Forneça nomes de concorrentes, tendências específicas, uma descrição do seu público e fontes de informação relevantes.
-
-    * Execute a célula de configuração para carregar as variáveis.
-
-4.  **Execute o Sistema:** Execute as células do notebook em ordem, de cima para baixo.
-
-5.  **Forneça o Tópico Principal:** Ao chegar ao último bloco, você será solicitado a digitar o mercado sobre o qual deseja o relatório de tendências. Digite uma breve descrição e pressione Enter.
-
-6.  **Analise os Resultados:** Os resultados da análise de cada agente (buscador, planejador, relatório e revisor) serão exibidos nas saídas das células correspondentes. O relatório final e revisado estará na saída do último agente.
-
-
 ## Onde os usuários podem obter ajuda com seu projeto?
 
 Como este é um projeto individual/de demonstração, o principal ponto de contato para ajuda é o mantenedor do projeto.
